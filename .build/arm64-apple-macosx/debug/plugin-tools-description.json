@@ -1,0 +1,657 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.MacIsland-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/sources",
+      "importPath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/MacIslandApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/ViewModels/IslandViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/CompactIslandView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/IslandComponents.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/VisualEffectBlur.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/DynamicIslandView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/ExpandedIslandView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaRemoteBridge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingInfo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroTimer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/IslandHostingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/MouseTrackingService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchGeometry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "MacIsland",
+      "moduleOutputPath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/Modules/MacIsland.swiftmodule",
+      "objects" : [
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.swift.o",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "MacIsland_main",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macisland"
+      ],
+      "outputFileMapPath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/Modules/MacIsland.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/AppDelegate.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/MacIslandApp.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/ViewModels/IslandViewModel.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/CompactIslandView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/IslandComponents.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/VisualEffectBlur.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/DynamicIslandView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/ExpandedIslandView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaRemoteBridge.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaWidgetView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingInfo.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingService.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroTimer.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroWidgetView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadService.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadWidgetView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorService.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorWidgetView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/IslandHostingView.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/MouseTrackingService.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchGeometry.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchPanel.swift",
+        "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchWindowController.swift"
+      ],
+      "tempsPath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "MacIsland" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "MacIsland",
+      "-package-name",
+      "macisland",
+      "-c",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/AppDelegate.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/MacIslandApp.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/ViewModels/IslandViewModel.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/CompactIslandView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/IslandComponents.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/VisualEffectBlur.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/DynamicIslandView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/ExpandedIslandView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaRemoteBridge.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaWidgetView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingInfo.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingService.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroTimer.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroWidgetView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadService.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadWidgetView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorService.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorWidgetView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/IslandHostingView.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/MouseTrackingService.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchGeometry.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchPanel.swift",
+      "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchWindowController.swift",
+      "-I",
+      "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "MacIsland_main",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macisland",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "MacIsland" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland-entitlement.plist"
+    },
+    "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/MacIslandApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/ViewModels/IslandViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/CompactIslandView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/IslandComponents.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/VisualEffectBlur.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/DynamicIslandView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/ExpandedIslandView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaRemoteBridge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingInfo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroTimer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorWidgetView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/IslandHostingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/MouseTrackingService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchGeometry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchWindowController.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/sources"
+    },
+    "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.product/Objects.LinkFileList"
+    },
+    "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

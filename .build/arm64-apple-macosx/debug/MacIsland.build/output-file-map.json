@@ -1,0 +1,166 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/master.swiftdeps"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/AppDelegate.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/AppDelegate.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/App/MacIslandApp.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MacIslandApp.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/ViewModels/IslandViewModel.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandViewModel.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/CompactIslandView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/CompactIslandView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/IslandComponents.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandComponents.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/Components/VisualEffectBlur.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/VisualEffectBlur.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/DynamicIslandView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/DynamicIslandView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Views/ExpandedIslandView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ExpandedIslandView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaRemoteBridge.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaRemoteBridge.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/MediaWidgetView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MediaWidgetView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingInfo.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingInfo.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Media/NowPlayingService.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NowPlayingService.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroTimer.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroTimer.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Pomodoro/PomodoroWidgetView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/PomodoroWidgetView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadService.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadService.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/Scratchpad/ScratchpadWidgetView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/ScratchpadWidgetView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorService.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorService.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Widgets/SystemMonitor/SystemMonitorWidgetView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/SystemMonitorWidgetView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/IslandHostingView.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/IslandHostingView.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/MouseTrackingService.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/MouseTrackingService.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchGeometry.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchGeometry.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchPanel.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchPanel.dia"
+  },
+  "/Users/zaharpuchka/MacIsland/Sources/MacIsland/Window/NotchWindowController.swift": {
+    "dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.d",
+    "object": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.swift.o",
+    "swiftmodule": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.swiftdeps",
+    "diagnostics": "/Users/zaharpuchka/MacIsland/.build/arm64-apple-macosx/debug/MacIsland.build/NotchWindowController.dia"
+  }
+}
